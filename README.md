@@ -16,7 +16,7 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! 
 
 <!--
 **Petronio-Jr/Petronio-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
