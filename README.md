@@ -1,20 +1,14 @@
-# Hi, I'm Petrônio!
-
- ##  About me
-- 🎓 Studying Computer Science at UNIFAL‑MG since early 2025.
-- 💡 Continuously interested in learning new technologies, algorithms, and development methodologies.
-- 🧠 Passionate about challenges and interested in learning game development.
-- 🚀 Always striving to evolve: daily study sessions, extra courses, and coding late into the night.
-- 🔭 I’m currently working with C++
-- 🎮 Passionate about games and game development.
-- 🧩 Enjoy solving challenging problems and learning new things.
-- 🌱 Always striving to improve my skills and become proficient in what I do.
-- 🎲 Aiming to become a skilled programmer and, one day, develop my own game.
-
-
-- Thanks for visiting.
-
-- Enjoy it!! 
+# Oi, eu sou Petrônio!
+ ## Sobre mim
+-🎓 Estudando Ciência da Computação na UNIFAL-MG desde o início de 2025.
+-💡 Continuamente interessado em aprender novas tecnologias, algoritmos e metodologias de desenvolvimento.
+-🧠 Apaixonado por desafios e interessado em aprender sobre desenvolvimento de jogos.
+-🚀 Sempre me esforçando para evoluir: sessões de estudo diárias, cursos extras e codificação até tarde da noite.
+-🔭 Atualmente trabalhando com C/C++
+-🎮 Apaixonado por jogos e desenvolvimento de jogos.
+-🧩 Gosto de resolver problemas desafiadores e aprender coisas novas.
+-🌱 Sempre buscando melhorar minhas habilidades e me tornar proficiente no que faço.
+-🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia, desenvolver meu próprio jogo
 
 <!--
 **Petronio-Jr/Petronio-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
