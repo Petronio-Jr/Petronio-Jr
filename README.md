@@ -9,7 +9,7 @@
 - 🎮 Apaixonado por jogos e desenvolvimento de jogos.  
 - 🧩 Gosto de resolver problemas desafiadores e aprender coisas novas.  
 - 🌱 Sempre buscando melhorar minhas habilidades e me tornar proficiente no que faço.  
-- 🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia
+- 🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia produzir meu próprio jogo
 
 <!--
 **Petronio-Jr/Petronio-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
