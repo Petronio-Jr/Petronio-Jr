@@ -1,4 +1,4 @@
-# Oi, eu sou Petrônio!
+# Oi, eu sou Petrônio, também conhecido como Pet!
 
 ## Sobre mim
 - 🎓 Estudando Ciência da Computação na UNIFAL-MG desde o início de 2025.  
