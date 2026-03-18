@@ -6,9 +6,9 @@
 - 🧠 Apaixonado por desafios e interessado em aprender sobre desenvolvimento de jogos.  
 - 🚀 Sempre me esforçando para evoluir: sessões de estudo diárias, cursos extras e codificação até tarde da noite.  
 - 🔭 Atualmente trabalhando com C/C++ e aprendendo java.  
-- 🎮 Apaixonado por jogos e desenvolvimento de jogos.  
+- 🎮 Gosto de trabalhar no desenvolvimento de jogos no tempo livre, vendo videoaulas e colocando em prática. 
 - 🧩 Gosto de resolver problemas desafiadores e aprender coisas novas.  
-- 🌱 Sempre buscando melhorar minhas habilidades e me tornar proficiente no que faço.  
+- 🌱 Quero que se orgulhem de mim e lutarei para ser o melhor possível a cada dia.  
 - 🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia produzir um jogo de sucesso
 
 <!--
