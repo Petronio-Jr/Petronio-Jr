@@ -22,11 +22,9 @@
 
 - 🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia produzir um jogo de sucesso
 
+<br><br>
+## Linguagens mais utilizadas
 
-
-### 🛠️ Linguagens mais utilizadas
-
-
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Petronio-Jr&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petronio-Jr&layout=donut&theme=dracula" alt="Gráfico Circular de Linguagens" width="400" />
 
