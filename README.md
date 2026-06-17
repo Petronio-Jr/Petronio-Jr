@@ -11,6 +11,9 @@
 - 🌱 Quero que se orgulhem de mim e lutarei para ser o melhor possível a cada dia.  
 - 🎲 Meu objetivo é tornar-me um programador habilidoso e, um dia produzir um jogo de sucesso
 
+### 🛠️ Linguagens mais utilizadas
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Petronio-Jr&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Petronio-Jr/Petronio-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
