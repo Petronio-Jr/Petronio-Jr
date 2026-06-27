@@ -12,7 +12,7 @@
 
 - Sempre me esforçando para evoluir: sessões de estudo diárias, cursos extras e codificação até tarde da noite.  
 
--  Atualmente trabalhando com C/C++ e aprendendo java.  
+- Atualmente trabalhando com C/C++ e aprendendo java. Também estou desenvolvendo um jogo na Unreal Engine
 
 - Gosto de trabalhar no desenvolvimento de jogos no tempo livre, vendo videoaulas e colocando em prática. 
 
