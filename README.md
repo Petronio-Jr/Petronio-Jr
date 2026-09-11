@@ -24,7 +24,5 @@
 
 <br><br>
 ## Linguagens mais utilizadas
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petronio-Jr&layout=donut&theme=dracula" alt="Gráfico Circular de Linguagens" width="400" />
+[![Gráfico de Linguagens](https://vercel.app)](https://github.com)
 
