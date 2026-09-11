@@ -23,6 +23,5 @@
 - Meu objetivo é tornar-me um programador habilidoso e, um dia produzir um jogo de sucesso
 
 <br><br>
-## Linguagens mais utilizadas
-[![Gráfico de Linguagens](https://vercel.app)](https://github.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petronio-Jr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
