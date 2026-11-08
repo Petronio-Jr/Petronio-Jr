@@ -10,16 +10,16 @@
 
 - Apaixonado por desafios, sou goleiro de futsal e gosto de desenhar.  
 
-- Sempre me esforçando para evoluir: sessões de estudo diárias, cursos extras e codificação até tarde da noite.  
+- Sempre me esforçando para evoluir, sempre buscando me manter acima do nível.  
 
-- Atualmente trabalhando com C/C++ e aprendendo java. Também estou desenvolvendo um jogo na Unreal Engine
+- Atualmente trabalhando com C/C++, java e C#. 
 
-- Gosto de trabalhar no desenvolvimento de jogos no tempo livre, vendo videoaulas e colocando em prática. 
+- Gosto de trabalhar no desenvolvimento de jogos no tempo livre, já produzi um 2D e um 3D. 
 
 - Gosto de resolver problemas desafiadores e aprender coisas novas.  
 
 - Quero que se orgulhem de mim e lutarei para ser o melhor possível a cada dia.  
 
-- Meu objetivo é tornar-me um programador habilidoso e, um dia produzir um jogo de sucesso
+- Posso não saber como fazer algo mas não desisto até conseguir.
 
 
