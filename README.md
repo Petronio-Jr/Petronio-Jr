@@ -8,7 +8,7 @@
 
 ![Nível](https://img.shields.io/badge/N%C3%8DVEL-19-5b21b6?style=for-the-badge&labelColor=171a21)
 ![Unifal](https://img.shields.io/badge/UNIFAL--MG-2025-5b21b6?style=for-the-badge&labelColor=171a21)
-![Steam](https://img.shields.io/badge/STEAM-EM_DESENVOLVIMENTO-5b21b6?style=for-the-badge&logo=steam&logoColor=white&labelColor=171a21)
+
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="36%" valign="top">
+<td width="32%" valign="top">
 
 ### 🎮 Sobre mim
 
@@ -26,7 +26,7 @@
 - Focado nos meus afazeres
 
 </td>
-<td width="32%" valign="top">
+<td width="30%" valign="top">
 
 ### Status
 
@@ -35,22 +35,27 @@
 | **Nível** | `19` |
 | **Anos de curso** | `2` |
 | **Jogos produzidos** | `2` |
-| **Em desenvolvimento** | `1` (Steam) |
+| **Semestres Concluidos** | `3`|
 
 </td>
-<td width="32%" valign="top">
+<td width="50%" valign="top">
 
 ### 👾 Extras
 
 - Jogo favorito: *The Last of Us Part II*
-- Hobby: *Colecionar cartas pokémon*
+- Obra favorita: *Berserk*
 - Meta atual: *Concluir a faculdade*
 
 </td>
 </tr>
 </table>
-
 <br>
+
+### Projetos em andamento
+- Jogo grande para lançamento na steam em 2027 ou 2028, já em desenvolvimento
+  
+<br>
+
 
 ### 🛠️ Linguagens
 
