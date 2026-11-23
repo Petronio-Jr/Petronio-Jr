@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="32%" valign="top">
+<td width="36%" valign="top">
 
 ### 🎮 Sobre mim
 
