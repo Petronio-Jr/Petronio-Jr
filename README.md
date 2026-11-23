@@ -21,14 +21,14 @@
 ### 🎮 Sobre mim
 
 - Estudante da **Unifal-MG** desde 2025
-- 🕹️ **GameDev** nas horas vagas
-- 👾 Apaixonado por jogos e coisas nerds
-- 🎯 Focado nos meus afazeres
+- **GameDev** nas horas vagas
+- Apaixonado por jogos e coisas nerds
+- Focado nos meus afazeres
 
 </td>
 <td width="32%" valign="top">
 
-### 📊 Status
+### Status
 
 | | |
 |---|---|
@@ -42,9 +42,9 @@
 
 ### 👾 Extras
 
-- 🎮 Jogo favorito: *The Last of Us Part II*
-- 🎵 Hobby: *Colecionar cartas pokémon*
-- 🎯 Meta atual: *Concluir a faculdade*
+- Jogo favorito: *The Last of Us Part II*
+- Hobby: *Colecionar cartas pokémon*
+- Meta atual: *Concluir a faculdade*
 
 </td>
 </tr>
